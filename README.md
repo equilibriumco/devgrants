@@ -17,13 +17,6 @@ Do you have an idea for pushing the Filecoin ecosystem forward? Grants up to $50
 
 ---
 
-### FIL Builder Next Steps Grant
-Filecoin Foundation is working with FIL-B to provide $5k to $10k support for builders taking their Filecoin projects to the next level! Eager to take the next step? Check out our criteria and get started!
-
-[**LEARN MORE ABOUT FIL BUILDER NEXT STEPS GRANTS**](https://github.com/filecoin-project/devgrants/blob/master/Program%20Resources/Builder%20Next%20Step%20Grants.md) **AND** [**APPLY FOR A FIL BUILDER NEXT STEP GRANT**](https://github.com/filecoin-project/devgrants/issues/new/choose)
-
----
-
 ### Requests for Proposals (RFPs)
 RFPs are grants for specific development work. As the name suggests, we are requesting proposals from teams that want to complete the work specified in each RFP. In these grants, we generally have clearly scoped deliverables, milestones, and funding limits. Some RFPs will ask you to propose your own milestones and funding needs. While there is some flexibility in RFP deliverables, we expect teams will deliver what is in scope in the RFP. Any deviations from the specified scope must be approved between your team and ours before we can approve funding. RFPs may be funded by Protocol Labs, other community members, or a consortium of interested parties.
 
